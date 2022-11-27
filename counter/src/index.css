@@ -1,0 +1,25 @@
+.main {
+  text-align: center;
+  width: 27%;
+  /* align-items: center; */
+  margin-left: 33%;
+  background-color: rgb(219, 200, 200);
+}
+
+.mid {
+  display: flex;
+  margin-left: 30%;
+  gap: 10%;
+
+}
+.btn{
+      border: 2px solid;
+      border-radius: 8px;
+      /* background-color: rgb(252, 248, 247); */
+      height: 36px;
+}
+.btn:hover{
+  background-color: blue;
+  color: white;
+}
+
